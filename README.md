@@ -1,19 +1,3 @@
-❓ 这是什么？
-newshot 是一个自动抓取“真实热点新闻链接”的工具。
-它不是给你一堆专题页、合集页、跳转页，而是：
-标题 + 真直链 + 热度 + 分类 + 情绪
-你只需要运行一次，它就会告诉你：
-今天，世界在热什么。
-它能做什么？
-🌐 从 20+ 权威新闻源抓取内容
-🔗 自动筛选“真·直链”，拒绝跳转页
-🔥 给每条新闻打热度分
-😊 用表情表达新闻情绪
-📊 分类输出：高 / 中 / 普通
-🧠 去重、记忆历史，不重复推送
-🕒 支持定时运行
-
-
 
 
 
@@ -51,3 +35,30 @@ newshot 不仅仅是一个新闻聚合工具——它是一个面向未来的全
 ## ⭐newshot 的目标是：
 
 🤖自动从全球权威新闻源抓取新闻 → 分析 → 分类 → 评分 → 推送→ 并输出美观、可扩展的 UI 与日志
+
+
+## 📄 许可证
+
+本项目采用 **Apache License 2.0** - 查看 [LICENSE](LICENSE) 文件了解详情。
+
+## 📞 支持与联系
+
+- **文档**: [https://docs.newshot.ai](https://docs.newshot.ai)
+- **问题**: [GitHub Issues](https://github.com/newshot-ai/newshot/issues)
+- **讨论**: [GitHub Discussions](https://github.com/newshot-ai/newshot/discussions)
+- **邮件**: support@newshot.ai
+- **Twitter**: [@newshot_ai](https://twitter.com/newshot_ai)
+
+## 🌟 Star 历史
+
+[![Star History Chart](https://api.star-history.com/svg?repos=newshot-ai/newshot&type=Date)](https://star-history.com/#newshot-ai/newshot&Date)
+
+---
+
+<div align="center">
+
+**NewShot · 让全球信息，触手可及**
+
+如果这个项目对您有帮助，请给我们一个 ⭐️
+
+</div>
