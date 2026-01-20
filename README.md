@@ -10,7 +10,7 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Coverage](https://img.shields.io/badge/coverage-92%25-green)
 
-[快速开始](#-快速开始) | [在线演示](#-在线演示) | [英文](#-api英文) | [架构设计](#-架构设计)
+[快速开始](#-快速开始) | [在线演示](#-在线演示) | [Eglish](#-api英文) | [架构设计](#-架构设计)
 
 </div>
 
