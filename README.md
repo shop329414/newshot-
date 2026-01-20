@@ -42,7 +42,13 @@ newshot 不仅仅是一个新闻聚合工具——它是一个面向未来的全
 本项目采用 **Apache License 2.0** - 查看 [LICENSE](LICENSE) 文件了解详情。
 
 ## 📞 支持与联系
-## 🤝 贡献指南
+
+- **文档**: [目前暂无，项目持续优化中...]
+- **讨论及问题**: [GitHub Discussions](https://github.com/shop329414/newshot-/issues/1)
+- **邮件**: hello@mycms.uno
+- **致青春**: [@newshot_]()
+
+## 🤝 
 
 我们欢迎各种形式的贡献！请查看我们的[贡献指南](CONTRIBUTING.md)：
 
@@ -50,11 +56,6 @@ newshot 不仅仅是一个新闻聚合工具——它是一个面向未来的全
 2. **提交代码**：遵循我们的开发流程
 3. **改进文档**：帮助我们完善文档
 4. **分享用例**：告诉我们您如何
-
-- **文档**: [目前暂无，项目持续优化中...]
-- **讨论及问题**: [GitHub Discussions](https://github.com/shop329414/newshot-/issues/1)
-- **邮件**: hello@mycms.uno
-- **致青春**: [@newshot_]()
 
 ## 🌟 Star 历史
 
