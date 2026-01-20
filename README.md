@@ -77,10 +77,7 @@ JapanTimes
 4. **分享用例**：告诉我们您如何
 
 ## 🌟 Star 历史
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=newshot-/NewShot-&type=date&legend=top-left)](https://www.star-history.com/#newshot-/newshot-&type=date&legend=top-left)
+[![](https://api.star-history.com/svg?repos=shop329414/NewShot&type=date&legend=top-left)](https://www.star-history.com/#shop329414/NewShot&type=date&legend=top-left)
 
 ---
 
