@@ -44,8 +44,7 @@ newshot 不仅仅是一个新闻聚合工具——它是一个面向未来的全
 ## 📞 支持与联系
 
 - **文档**: [目前暂无，项目持续优化中...]
-- **问题**: [GitHub Issues](https://github.com/shop329414/newshot-/issues/1）
-- **讨论**: [GitHub Discussions](https://github.com/shop329414/newshot-/issues/1)
+- **讨论及问题**: [GitHub Discussions](https://github.com/shop329414/newshot-/issues/1)
 - **邮件**: hello@mycms.uno
 - **致青春**: [@newshot_]()
 
