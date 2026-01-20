@@ -1,4 +1,18 @@
+🚀 NewShot · 下一代全球新闻智能平台
 
+> **实时 · 深度 · 预见**  
+> 从海量信息中提取真正值得关注的内容
+
+<div align="center">
+
+![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Coverage](https://img.shields.io/badge/coverage-92%25-green)
+
+[快速开始](#-快速开始) | [在线演示](#-在线演示) | [API文档](#-api文档) | [架构设计](#-架构设计)
+
+</div>
 
 
 
