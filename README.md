@@ -43,11 +43,11 @@ newshot 不仅仅是一个新闻聚合工具——它是一个面向未来的全
 
 ## 📞 支持与联系
 
-- **文档**: [https://docs.newshot.ai](https://docs.newshot.ai)
-- **问题**: [GitHub Issues](https://github.com/newshot-ai/newshot/issues)
-- **讨论**: [GitHub Discussions](https://github.com/newshot-ai/newshot/discussions)
-- **邮件**: support@newshot.ai
-- **Twitter**: [@newshot_ai](https://twitter.com/newshot_ai)
+- **文档**: [https://docs.newshot.ai](目前暂无，项目持续优化中....)
+- **问题**: [GitHub Issues](https://github.com/newshot-/newshot/issues)
+- **讨论**: [GitHub Discussions](https://github.com/newshot-/newshot/discussions)
+- **邮件**: hello@mycms.uno
+- **Twitter**: [@newshot_](https://twitter.com/no)
 
 ## 🌟 Star 历史
 
